@@ -25,4 +25,5 @@ This mod (port PSYCH ENGINE 1.0.4) is unfinished and requires some work.
 If you find any bugs or the game/mod crashes, please message me on discord: balda9k, ok? thanks
 
 # Sincerely, Xewonsik
+thanks
 ___________________________________
