@@ -11,7 +11,7 @@ ___________________________________
 
 Original Creator "Mario's Madness V1 and V2" - Marco Antonio and his team
 
-Original Creator"Jeffy's infinite irida" - BetaSheep and his team
+Original Creator —"Jeffy's infinite irida" - BetaSheep and his team
 ___________________________________
 
 ## ! WARNING !
