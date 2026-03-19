@@ -1,7 +1,7 @@
 # Mario's Madness V2 x Jeffy's infinite irida (Psychengine 1.0.4 port) BETA by Xewonsik
 ___________________________________
 
-!! UNOFFICIAL PORT !!
+### !! UNOFFICIAL PORT !!
 ___________________________________
 
 Sup bro
@@ -11,7 +11,7 @@ ___________________________________
 
 Original Creator "Mario's Madness V1 and V2" - Marco Antonio and his team
 
-Original Creator —"Jeffy's infinite irida" - BetaSheep and his team
+Original Creator - "Jeffy's infinite irida" - BetaSheep and his team
 ___________________________________
 
 ## ! WARNING !
